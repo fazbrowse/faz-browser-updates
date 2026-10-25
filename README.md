@@ -1,2 +1,2 @@
 # faz-browser-updates
-test
+educational purpose, im only testing, this is personal use private use
